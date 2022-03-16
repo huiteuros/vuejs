@@ -15,3 +15,6 @@ Et une fois les dépendances installées, il suffit de lancer le serveur :
     npm run serve
 
 Il faut aussi être connecté à internet car l'API est sur un serveur distant.
+
+Le site est aussi disponible à l'adresse suivante :
+https://cuisineamphouxcausse.netlify.app
